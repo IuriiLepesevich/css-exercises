@@ -3,6 +3,10 @@
     font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
 }
 
+.cool-class {
+    font-size: 24px;
+}
+
 #second-elem {
     color: #0000FF;
     font-size: 36px;
